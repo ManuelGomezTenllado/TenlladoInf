@@ -1,0 +1,18 @@
+.a {
+    margin: auto;
+    width: 300px;
+    border: 1px solid aquamarine;
+    background-color: aquamarine;
+}
+.b {
+    margin: auto;
+    padding: 25px 50px;
+    border: 1px solid aquamarine;
+    background-color: aquamarine;
+}
+.c {
+    margin: auto;
+    padding: 50px;
+    border: 1px solid aquamarine;
+    background-color: aquamarine;
+}

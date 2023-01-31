@@ -1,0 +1,9 @@
+div {
+    border: 1px solid aquamarine;
+    background-color: aquamarine;
+    height: 100px;
+    width: 500px;
+}
+body {
+    border: 10px aquamarine;
+}

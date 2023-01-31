@@ -1,0 +1,7 @@
+body {
+    background-image: url("sheep.png");
+    background-repeat: no-repeat;
+    background-position: top right;
+    margin-right: 200px;
+    background-size: 200px;
+}

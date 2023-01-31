@@ -1,0 +1,8 @@
+body {
+    background-image: url("sheep.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-right: 200px;
+    background-size: 650px;
+    background-attachment: scroll;
+}

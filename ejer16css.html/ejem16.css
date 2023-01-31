@@ -1,0 +1,44 @@
+.a {
+font-family: 'Times New Roman', Times, serif;
+font-size: medium;
+font-style: normal;
+font-weight: normal;
+text-align: left;
+line-height: normal;
+word-spacing: normal;
+background-color: rgb(224, 204, 207);
+}
+
+.b {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-style: normal;
+    font-weight: 300;
+    text-align: left;
+    line-height: normal;
+    word-spacing: 5px;
+    background-color: rgb(252, 252, 0);
+}
+
+.c {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+    line-height: normal;
+    word-spacing: 20px;
+    background-color: rgb(91, 55, 222);
+}
+
+.d {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-style: oblique;
+    font-weight: lighter;
+    text-align: left;
+    line-height: 20px;
+    word-spacing: 20px;
+    letter-spacing: 5px;
+    background-color: rgb(238, 20, 56);
+}
