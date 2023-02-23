@@ -1,0 +1,8 @@
+.a {
+    background-color: blue;
+    color: white;
+    max-width: 75px;
+    margin: 5px auto;
+    padding: 5px;
+    display: inline;
+}

@@ -1,0 +1,39 @@
+body {
+    background-color: #dcd5d5;
+    background-image: ;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 50px auto;
+    background-color: rgba(134, 134, 134, 0.8);
+    padding: 50px 0px;
+    text-align: center;
+}
+
+.p1 {
+    max-width: 750px;
+    margin: 50px auto;
+    background-color: rgb(255, 1, 1);
+    padding: 25px 0px;
+}
+.p2 {
+    margin-left: 50px;
+    text-align: left;
+}
+
+.p3 {
+    max-width: 750px;
+    margin: 50px auto;
+    background-color: rgb(251, 255, 0);
+    padding: 25px 0px;
+}
+
+.p4 {
+    max-width: 750px;
+    margin: 50px auto;
+    background-color: rgb(39, 113, 233);
+    padding: 25px 0px;
+}
